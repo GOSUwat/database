@@ -1,0 +1,14 @@
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\bin\Debug\Database1.mdf
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\bin\Debug\Database1_log.ldf
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\bin\Debug\ExamenLanguages.exe.config
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\bin\Debug\ExamenLanguages.exe
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\bin\Debug\ExamenLanguages.pdb
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.csprojAssemblyReference.cache
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.Form1.resources
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.Create.resources
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.Show.resources
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.Properties.Resources.resources
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.csproj.GenerateResource.cache
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.csproj.CoreCompileInputs.cache
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.exe
+C:\Users\asus6\source\repos\ExamenLanguages\ExamenLanguages\obj\Debug\ExamenLanguages.pdb
